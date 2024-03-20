@@ -3,7 +3,27 @@ entries:
   elamonpremise:
   - apiVersion: v2
     appVersion: develop
-    created: "2024-03-20T14:50:57.131822+01:00"
+    created: "2024-03-20T14:54:19.8455768+01:00"
+    dependencies:
+    - name: redis
+      repository: https://charts.bitnami.com/bitnami
+      version: 18.3.2
+    - name: postgresql
+      repository: https://charts.bitnami.com/bitnami
+      version: 13.2.9
+    - name: keycloak
+      repository: https://charts.bitnami.com/bitnami
+      version: 17.3.4
+    description: Elam Solutions OnPremise Server
+    digest: a2769838bf29135f7d49f7e1f285ea8506ae8d87739bf1f1d4652a0bec511b2f
+    name: elamonpremise
+    type: application
+    urls:
+    - elamonpremise/elamonpremise-0.0.7.tgz
+    version: 0.0.7
+  - apiVersion: v2
+    appVersion: develop
+    created: "2024-03-20T14:54:19.8177724+01:00"
     dependencies:
     - name: redis
       repository: https://charts.bitnami.com/bitnami
@@ -24,7 +44,7 @@ entries:
   swaonpremise:
   - apiVersion: v2
     appVersion: develop
-    created: "2024-03-20T14:50:57.1353288+01:00"
+    created: "2024-03-20T14:54:19.8473844+01:00"
     description: SWA Client for Elam Solution OnPremise
     digest: c2608ee1876ab6151875e77dd7182c35978b3b020f0b4578b384741cb8979f54
     name: swaonpremise
@@ -34,7 +54,7 @@ entries:
     version: 0.0.7
   - apiVersion: v2
     appVersion: develop
-    created: "2024-03-20T14:50:57.1338147+01:00"
+    created: "2024-03-20T14:54:19.8468613+01:00"
     description: SWA Client for Elam Solution OnPremise
     digest: 809e6d4a97a3d75a4003d70b5c45104bc25d5ff34368ecf0af1c5017050f0595
     name: swaonpremise
@@ -44,7 +64,7 @@ entries:
     version: 0.0.6
   - apiVersion: v2
     appVersion: develop
-    created: "2024-03-20T14:50:57.1328124+01:00"
+    created: "2024-03-20T14:54:19.8455768+01:00"
     description: SWA Client for Elam Solution OnPremise
     digest: 774ea0edb036e1f4816ac058310f6e6fe63487e2b5e6c77dbedfb54a735c2b50
     name: swaonpremise
@@ -52,4 +72,4 @@ entries:
     urls:
     - swaonpremise/swaonpremise-0.0.5.tgz
     version: 0.0.5
-generated: "2024-03-20T14:50:57.1085382+01:00"
+generated: "2024-03-20T14:54:19.7942328+01:00"

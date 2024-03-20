@@ -1,0 +1,35 @@
+apiVersion: v1
+entries:
+  elamonpremise:
+  - apiVersion: v2
+    appVersion: develop
+    created: "2024-03-19T16:50:40.8554561+01:00"
+    dependencies:
+    - name: redis
+      repository: https://charts.bitnami.com/bitnami
+      version: 18.3.2
+    - name: postgresql
+      repository: https://charts.bitnami.com/bitnami
+      version: 13.2.9
+    - name: keycloak
+      repository: https://charts.bitnami.com/bitnami
+      version: 17.3.4
+    description: Elam Solutions OnPremise Server
+    digest: 77ddd752fba3a0fac5e2486dc768fefe8ee09a410e60e2d01cf3e8449195b1ec
+    name: elamonpremise
+    type: application
+    urls:
+    - elamonpremise/elamonpremise-0.0.6.tgz
+    version: 0.0.6
+  swaonpremise:
+  - apiVersion: v2
+    appVersion: develop
+    created: "2024-03-19T16:50:40.8559848+01:00"
+    description: SWA Client for Elam Solution OnPremise
+    digest: 774ea0edb036e1f4816ac058310f6e6fe63487e2b5e6c77dbedfb54a735c2b50
+    name: swaonpremise
+    type: application
+    urls:
+    - swaonpremise/swaonpremise-0.0.5.tgz
+    version: 0.0.5
+generated: "2024-03-19T16:50:40.8344109+01:00"

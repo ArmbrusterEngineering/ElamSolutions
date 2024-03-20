@@ -1,1 +1,1 @@
-ElamSolutions Helm Repositorty
+Storage for Helm Charts

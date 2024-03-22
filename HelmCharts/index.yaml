@@ -3,7 +3,7 @@ entries:
   elamonpremise:
   - apiVersion: v2
     appVersion: develop
-    created: "2024-03-22T09:26:47.7030704+01:00"
+    created: "2024-03-22T09:27:41.308696+01:00"
     dependencies:
     - name: redis
       repository: https://charts.bitnami.com/bitnami
@@ -24,7 +24,7 @@ entries:
   swaonpremise:
   - apiVersion: v2
     appVersion: develop
-    created: "2024-03-22T09:26:47.7057517+01:00"
+    created: "2024-03-22T09:27:41.3106967+01:00"
     description: SWA Client for Elam Solution OnPremise
     digest: fd2613bc035f300e5d2d9c7fe0abc22f7c79acad1b0b78c052066ee8db3692f7
     home: https://www.elam-solutions.com/
@@ -37,4 +37,4 @@ entries:
     urls:
     - swaonpremise/swaonpremise-0.0.9.tgz
     version: 0.0.9
-generated: "2024-03-22T09:26:47.6754715+01:00"
+generated: "2024-03-22T09:27:41.282342+01:00"

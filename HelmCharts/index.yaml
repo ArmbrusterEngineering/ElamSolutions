@@ -3,7 +3,7 @@ entries:
   elamonpremise:
   - apiVersion: v2
     appVersion: develop
-    created: "2024-04-05T14:59:50.1958411+02:00"
+    created: "2024-04-05T15:52:18.9741777+02:00"
     dependencies:
     - name: redis
       repository: https://charts.bitnami.com/bitnami
@@ -28,7 +28,7 @@ entries:
     version: 0.0.13
   - apiVersion: v2
     appVersion: develop
-    created: "2024-04-05T14:59:50.1778406+02:00"
+    created: "2024-04-05T15:52:18.9546705+02:00"
     dependencies:
     - name: redis
       repository: https://charts.bitnami.com/bitnami
@@ -53,7 +53,7 @@ entries:
     version: 0.0.12
   - apiVersion: v2
     appVersion: develop
-    created: "2024-04-05T14:59:50.1597657+02:00"
+    created: "2024-04-05T15:52:18.9376714+02:00"
     dependencies:
     - name: redis
       repository: https://charts.bitnami.com/bitnami
@@ -78,7 +78,7 @@ entries:
     version: 0.0.11
   - apiVersion: v2
     appVersion: develop
-    created: "2024-04-05T14:59:50.1401019+02:00"
+    created: "2024-04-05T15:52:18.9189473+02:00"
     dependencies:
     - name: redis
       repository: https://charts.bitnami.com/bitnami
@@ -103,7 +103,7 @@ entries:
     version: 0.0.10
   - apiVersion: v2
     appVersion: develop
-    created: "2024-04-05T14:59:50.2138406+02:00"
+    created: "2024-04-05T15:52:18.9931766+02:00"
     dependencies:
     - name: redis
       repository: https://charts.bitnami.com/bitnami
@@ -129,7 +129,7 @@ entries:
   swaonpremise:
   - apiVersion: v2
     appVersion: develop
-    created: "2024-04-05T14:59:50.2168408+02:00"
+    created: "2024-04-05T15:52:18.9961764+02:00"
     description: SWA Client for Elam Solution OnPremise
     digest: c2737e060eab3a2b347c37a2a703d15b58ea568a644e7b63d637799cc19a8896
     home: https://www.elam-solutions.com/
@@ -144,7 +144,7 @@ entries:
     version: 0.0.14
   - apiVersion: v2
     appVersion: develop
-    created: "2024-04-05T14:59:50.2168408+02:00"
+    created: "2024-04-05T15:52:18.9961764+02:00"
     description: SWA Client for Elam Solution OnPremise
     digest: 1e0bfcdc3be870729a26bbad2822ecbefb2a8c310d16ede37065c7a66f6a321f
     home: https://www.elam-solutions.com/
@@ -159,7 +159,7 @@ entries:
     version: 0.0.13
   - apiVersion: v2
     appVersion: develop
-    created: "2024-04-05T14:59:50.2158414+02:00"
+    created: "2024-04-05T15:52:18.9951759+02:00"
     description: SWA Client for Elam Solution OnPremise
     digest: 1a9b1f07ba1cd54630639caecad988caac5a88fd0f410fe8601b9eaf635f382c
     home: https://www.elam-solutions.com/
@@ -174,7 +174,7 @@ entries:
     version: 0.0.12
   - apiVersion: v2
     appVersion: develop
-    created: "2024-04-05T14:59:50.2148416+02:00"
+    created: "2024-04-05T15:52:18.9941789+02:00"
     description: SWA Client for Elam Solution OnPremise
     digest: 46ba3b729e0023a41071fda2bf3a9426f5ecf1f0f35c6f16c9943940ccd0b6f7
     home: https://www.elam-solutions.com/
@@ -187,4 +187,4 @@ entries:
     urls:
     - swaonpremise/swaonpremise-0.0.11.tgz
     version: 0.0.11
-generated: "2024-04-05T14:59:50.119351+02:00"
+generated: "2024-04-05T15:52:18.8988725+02:00"

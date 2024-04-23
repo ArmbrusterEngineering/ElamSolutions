@@ -3,7 +3,7 @@ entries:
   elamonpremise:
   - apiVersion: v2
     appVersion: stage-20240418
-    created: "2024-04-18T09:22:55.2802423+02:00"
+    created: "2024-04-23T14:12:16.1984177+02:00"
     dependencies:
     - name: redis
       repository: https://charts.bitnami.com/bitnami
@@ -28,7 +28,7 @@ entries:
     version: 0.0.23
   - apiVersion: v2
     appVersion: develop
-    created: "2024-04-18T09:22:55.2602424+02:00"
+    created: "2024-04-23T14:12:16.1783523+02:00"
     dependencies:
     - name: redis
       repository: https://charts.bitnami.com/bitnami
@@ -53,7 +53,7 @@ entries:
     version: 0.0.22
   - apiVersion: v2
     appVersion: develop
-    created: "2024-04-18T09:22:55.2416433+02:00"
+    created: "2024-04-23T14:12:16.1587988+02:00"
     dependencies:
     - name: redis
       repository: https://charts.bitnami.com/bitnami
@@ -78,7 +78,7 @@ entries:
     version: 0.0.21
   - apiVersion: v2
     appVersion: develop
-    created: "2024-04-18T09:22:55.2216428+02:00"
+    created: "2024-04-23T14:12:16.1387969+02:00"
     dependencies:
     - name: redis
       repository: https://charts.bitnami.com/bitnami
@@ -103,7 +103,7 @@ entries:
     version: 0.0.20
   - apiVersion: v2
     appVersion: develop
-    created: "2024-04-18T09:22:55.2008289+02:00"
+    created: "2024-04-23T14:12:16.1197961+02:00"
     dependencies:
     - name: redis
       repository: https://charts.bitnami.com/bitnami
@@ -128,7 +128,7 @@ entries:
     version: 0.0.19
   - apiVersion: v2
     appVersion: develop
-    created: "2024-04-18T09:22:55.1818281+02:00"
+    created: "2024-04-23T14:12:16.0987959+02:00"
     dependencies:
     - name: redis
       repository: https://charts.bitnami.com/bitnami
@@ -153,7 +153,7 @@ entries:
     version: 0.0.15
   - apiVersion: v2
     appVersion: develop
-    created: "2024-04-18T09:22:55.1608365+02:00"
+    created: "2024-04-23T14:12:16.0757913+02:00"
     dependencies:
     - name: redis
       repository: https://charts.bitnami.com/bitnami
@@ -178,7 +178,7 @@ entries:
     version: 0.0.14
   - apiVersion: v2
     appVersion: develop
-    created: "2024-04-18T09:22:55.140581+02:00"
+    created: "2024-04-23T14:12:16.0567089+02:00"
     dependencies:
     - name: redis
       repository: https://charts.bitnami.com/bitnami
@@ -203,7 +203,7 @@ entries:
     version: 0.0.13
   - apiVersion: v2
     appVersion: develop
-    created: "2024-04-18T09:22:55.1205807+02:00"
+    created: "2024-04-23T14:12:16.0376859+02:00"
     dependencies:
     - name: redis
       repository: https://charts.bitnami.com/bitnami
@@ -228,7 +228,7 @@ entries:
     version: 0.0.12
   - apiVersion: v2
     appVersion: develop
-    created: "2024-04-18T09:22:55.1027967+02:00"
+    created: "2024-04-23T14:12:16.0186961+02:00"
     dependencies:
     - name: redis
       repository: https://charts.bitnami.com/bitnami
@@ -253,7 +253,7 @@ entries:
     version: 0.0.11
   - apiVersion: v2
     appVersion: develop
-    created: "2024-04-18T09:22:55.0831249+02:00"
+    created: "2024-04-23T14:12:15.998718+02:00"
     dependencies:
     - name: redis
       repository: https://charts.bitnami.com/bitnami
@@ -278,7 +278,7 @@ entries:
     version: 0.0.10
   - apiVersion: v2
     appVersion: develop
-    created: "2024-04-18T09:22:55.3002515+02:00"
+    created: "2024-04-23T14:12:16.2178496+02:00"
     dependencies:
     - name: redis
       repository: https://charts.bitnami.com/bitnami
@@ -304,7 +304,7 @@ entries:
   swaonpremise:
   - apiVersion: v2
     appVersion: develop
-    created: "2024-04-18T09:22:55.3032463+02:00"
+    created: "2024-04-23T14:12:16.2208497+02:00"
     description: SWA Client for Elam Solution OnPremise
     digest: c2737e060eab3a2b347c37a2a703d15b58ea568a644e7b63d637799cc19a8896
     home: https://www.elam-solutions.com/
@@ -319,7 +319,7 @@ entries:
     version: 0.0.14
   - apiVersion: v2
     appVersion: develop
-    created: "2024-04-18T09:22:55.3022485+02:00"
+    created: "2024-04-23T14:12:16.2208497+02:00"
     description: SWA Client for Elam Solution OnPremise
     digest: 1e0bfcdc3be870729a26bbad2822ecbefb2a8c310d16ede37065c7a66f6a321f
     home: https://www.elam-solutions.com/
@@ -334,7 +334,7 @@ entries:
     version: 0.0.13
   - apiVersion: v2
     appVersion: develop
-    created: "2024-04-18T09:22:55.3012479+02:00"
+    created: "2024-04-23T14:12:16.2198492+02:00"
     description: SWA Client for Elam Solution OnPremise
     digest: 1a9b1f07ba1cd54630639caecad988caac5a88fd0f410fe8601b9eaf635f382c
     home: https://www.elam-solutions.com/
@@ -349,7 +349,7 @@ entries:
     version: 0.0.12
   - apiVersion: v2
     appVersion: develop
-    created: "2024-04-18T09:22:55.3002515+02:00"
+    created: "2024-04-23T14:12:16.2188491+02:00"
     description: SWA Client for Elam Solution OnPremise
     digest: 46ba3b729e0023a41071fda2bf3a9426f5ecf1f0f35c6f16c9943940ccd0b6f7
     home: https://www.elam-solutions.com/
@@ -362,4 +362,20 @@ entries:
     urls:
     - swaonpremise/swaonpremise-0.0.11.tgz
     version: 0.0.11
-generated: "2024-04-18T09:22:55.0623506+02:00"
+  thingsboard:
+  - apiVersion: v2
+    appVersion: 3.6.4
+    created: "2024-04-23T14:12:16.2218497+02:00"
+    description: Thingsboard for Elam Solutions OnPremise
+    digest: 7054672c4158c1875df242d32c37402fe3410c43e8edfe7e23ebf3206b3a3839
+    home: https://www.elam-solutions.com/
+    icon: data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNTUuNTMxIiBoZWlnaHQ9IjMxIiB2aWV3Qm94PSIwIDAgMTU1LjUzMSAzMSI+PHBhdGggZD0iTTE4LjYtMTcuNDk0SDYuNjg5djQuMzdIMTcuNjU2djMuMzUySDYuNjg5djUuNDJIMTguOTI0Vi0xSDIuM1YtMjAuODc5SDE4LjZabTQuMjU2LTMuMzg1aDQuNVYtNC40SDM4LjQxOVYtMUgyMi44NTVaTTQ5LjQ1Mi04LjlINTUuNDZsLTMuMDMyLTcuMzU1Wm0uNzU4LTExLjk4MWg0LjdMNjMuNTktMUg1OC44MzNMNTYuODExLTUuNDgzSDQ4LjEzMkw0Ni4yODktMUg0MS42NTFabTMxLjc0NCwwaDYuNTc3Vi0xaC00LjA4Vi0xNi42ODFMODAuMTk0LTEuMDU3SDc1LjgyNUw3MS41NDMtMTYuNjgxVi0xLjA1N0g2Ny4zNTVWLTIwLjg3OWg2LjcxOUw3OC4wNDktNy4zNVoiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDY3IDIxKSIgZmlsbD0iIzM2ODViOSIvPjxyZWN0IHdpZHRoPSIyOSIgaGVpZ2h0PSI5IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgzOCkiIGZpbGw9IiMzNjg1YjkiLz48cmVjdCB3aWR0aD0iNDgiIGhlaWdodD0iOSIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMTkgMTEpIiBmaWxsPSIjNmQ2ZTcxIi8+PHJlY3Qgd2lkdGg9IjY3IiBoZWlnaHQ9IjkiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDAgMjIpIiBmaWxsPSIjNmQ2ZTcxIi8+PHBhdGggZD0iTTU5LjgtMy41MTlhNS40LDUuNCwwLDAsMS0uNDMyLDIuMjQxQTMuMjcxLDMuMjcxLDAsMCwxLDU4LjE0My4xODJhMy4zNjYsMy4zNjYsMCwwLDEtMS44NDcuNUEzLjMzOCwzLjMzOCwwLDAsMSw1NC40NjcuMTc5YTMuMzQ5LDMuMzQ5LDAsMCwxLTEuMjQtMS40NDUsNS4xODQsNS4xODQsMCwwLDEtLjQ1NC0yLjE3NHYtLjYzQTUuMzM4LDUuMzM4LDAsMCwxLDUzLjIxMS02LjMsMy4zMzgsMy4zMzgsMCwwLDEsNTQuNDUtNy43N2EzLjMyMywzLjMyMywwLDAsMSwxLjgzMi0uNTEzLDMuMzg2LDMuMzg2LDAsMCwxLDEuODUxLjUwN0EzLjI2NSwzLjI2NSwwLDAsMSw1OS4zNjUtNi4zLDUuNDI5LDUuNDI5LDAsMCwxLDU5LjgtNC4wNlptLTEuMTQ2LS41NjdhMy45MTUsMy45MTUsMCwwLDAtLjYyNC0yLjM4M0EyLjA1OCwyLjA1OCwwLDAsMCw1Ni4yODMtNy4zYTIuMDM1LDIuMDM1LDAsMCwwLTEuNzE5LjgzMSwzLjgzNiwzLjgzNiwwLDAsMC0uNjQ0LDIuMzA3di42NDJhMy45MjEsMy45MjEsMCwwLDAsLjYzMywyLjM2N0EyLjA0MiwyLjA0MiwwLDAsMCw1Ni4zLS4yOTIsMi4wMzUsMi4wMzUsMCwwLDAsNTguMDIzLTEuMWEzLjksMy45LDAsMCwwLC42My0yLjMzWiIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMjcuMjI4IDMwLjI2NCkiIGZpbGw9IiM2MDYwNjAiLz48cGF0aCBkPSJNNTkuOC0zLjUxOWE1LjQsNS40LDAsMCwxLS40MzIsMi4yNDFBMy4yNzEsMy4yNzEsMCwwLDEsNTguMTQzLjE4MmEzLjM2NiwzLjM2NiwwLDAsMS0xLjg0Ny41QTMuMzM4LDMuMzM4LDAsMCwxLDU0LjQ2Ny4xNzlhMy4zNDksMy4zNDksMCwwLDEtMS4yNC0xLjQ0NSw1LjE4NCw1LjE4NCwwLDAsMS0uNDU0LTIuMTc0di0uNjNBNS4zMzgsNS4zMzgsMCwwLDEsNTMuMjExLTYuMywzLjMzOCwzLjMzOCwwLDAsMSw1NC40NS03Ljc3YTMuMzIzLDMuMzIzLDAsMCwxLDEuODMyLS41MTMsMy4zODYsMy4zODYsMCwwLDEsMS44NTEuNTA3QTMuMjY1LDMuMjY1LDAsMCwxLDU5LjM2NS02LjMsNS40MjksNS40MjksMCwwLDEsNTkuOC00LjA2Wm0tMS4xNDYtLjU2N2EzLjkxNSwzLjkxNSwwLDAsMC0uNjI0LTIuMzgzQTIuMDU4LDIuMDU4LDAsMCwwLDU2LjI4My03LjNhMi4wMzUsMi4wMzUsMCwwLDAtMS43MTkuODMxLDMuODM2LDMuODM2LDAsMCwwLS42NDQsMi4zMDd2LjY0MmEzLjkyMSwzLjkyMSwwLDAsMCwuNjMzLDIuMzY3QTIuMDQyLDIuMDQyLDAsMCwwLDU2LjMtLjI5MiwyLjAzNSwyLjAzNSwwLDAsMCw1OC4wMjMtMS4xYTMuOSwzLjksMCwwLDAsLjYzLTIuMzNaIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSg3NC4yMjggMzAuMjY0KSIgZmlsbD0iIzYwNjA2MCIvPjxwYXRoIGQ9Ik02NC42ODgtLjM3Nmg0LjEzOVYuNTY1aC01LjNWLTguMTcxaDEuMTYyWiIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMjcuNDc0IDMwLjI2MSkiIGZpbGw9IiM2MDYwNjAiLz48cGF0aCBkPSJNNzguOTY0LTguMTY5Vi0yLjIzYTIuNzg1LDIuNzg1LDAsMCwxLS43NzcsMi4wMjJBMy4xMywzLjEzLDAsMCwxLDc2LjEuNjczbC0uMzA2LjAxMmEzLjI2OSwzLjI2OSwwLDAsMS0yLjI4NS0uNzc0LDIuNzY3LDIuNzY3LDAsMCwxLS44NjMtMi4xM3YtNS45NWgxLjEzNXY1LjkxNUEyLDIsMCwwLDAsNzQuMy0uNzc4YTIuMDA2LDIuMDA2LDAsMCwwLDEuNDg3LjUyNSwyLjAyLDIuMDIsMCwwLDAsMS41LS41MjJBMS45OTQsMS45OTQsMCwwLDAsNzcuOC0yLjI1Vi04LjE2OFoiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDI3LjM2IDMwLjI2MSkiIGZpbGw9IiM2MDYwNjAiLz48cGF0aCBkPSJNMTE3LjYuNTY1aC0xLjE1N2wtNC4zOTQtNi43M1YuNTY1SDExMC45Vi04LjE3MWgxLjE1N2w0LjQwOSw2Ljc2Vi04LjE2OEgxMTcuNloiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDI3LjEwNSAzMC4yNjEpIiBmaWxsPSIjNjA2MDYwIi8+PHBhdGggZD0iTTk1LjM0NC41NjVIOTQuMTkyVi04LjE3MWgxLjE1MloiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDI3LjgwOCAzMC4yNjEpIiBmaWxsPSIjNjA2MDYwIi8+PHBhdGggZD0iTTg5LjgxNy03LjIyN0g4Ny4wMDVWLjU2NUg4NS44NlYtNy4yMjZoLTIuOHYtLjk0Mmg2Ljc1NFoiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDI3Ljk0NSAzMC4yNjEpIiBmaWxsPSIjNjA2MDYwIi8+PHBhdGggZD0iTTQ1LjM3Mi0zLjMxNmE1LjQyOCw1LjQyOCwwLDAsMS0yLjE2MS0xLjA1QTIsMiwwLDAsMSw0Mi41MzUtNS45YTIuMTE4LDIuMTE4LDAsMCwxLC44MjctMS43MDYsMy4yODYsMy4yODYsMCwwLDEsMi4xNDktLjY3NywzLjU4NywzLjU4NywwLDAsMSwxLjYwOC4zNDksMi42NDQsMi42NDQsMCwwLDEsMS4wOTQuOTYyQTIuNDYsMi40NiwwLDAsMSw0OC42LTUuNjMyaC0xLjE2YTEuNiwxLjYsMCwwLDAtLjUtMS4yNTEsMi4wNTQsMi4wNTQsMCwwLDAtMS40MjUtLjQ1NSwyLjEsMi4xLDAsMCwwLTEuMzMyLjM3NkExLjI1MSwxLjI1MSwwLDAsMCw0My43LTUuOTE3YTEuMTI5LDEuMTI5LDAsMCwwLC40NTUuOTEsNC40NTIsNC40NTIsMCwwLDAsMS41NDYuNjgyLDcuMTY1LDcuMTY1LDAsMCwxLDEuNzA2LjY4MiwyLjU5MSwyLjU5MSwwLDAsMSwuOTEuODYzLDIuMiwyLjIsMCwwLDEsLjMsMS4xNiwyLjA0NywyLjA0NywwLDAsMS0uODMsMS43MDYsMy41MzgsMy41MzgsMCwwLDEtMi4yMTkuNjRBNC4xMTUsNC4xMTUsMCwwLDEsNDMuODgzLjM4NmEyLjgzMywyLjgzMywwLDAsMS0xLjIwNS0uOTQ3LDIuMzExLDIuMzExLDAsMCwxLS40MjQtMS4zNjVoMS4xNkExLjUwOCwxLjUwOCwwLDAsMCw0NC0uNjc1YTIuNDY4LDIuNDY4LDAsMCwwLDEuNTY2LjQ1NSwyLjI3NSwyLjI3NSwwLDAsMCwxLjQtLjM3MywxLjIxMSwxLjIxMSwwLDAsMCwuNDg3LTEuMDE2QTEuMTg4LDEuMTg4LDAsMCwwLDQ3LTIuNmE1LjIsNS4yLDAsMCwwLTEuNjI2LS43MTJaIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgxMDYuNzQ3IDMwLjI2OCkiIGZpbGw9IiM2MDYwNjAiLz48cGF0aCBkPSJNNDUuMzcyLTMuMzE2YTUuNDI4LDUuNDI4LDAsMCwxLTIuMTYxLTEuMDVBMiwyLDAsMCwxLDQyLjUzNS01LjlhMi4xMTgsMi4xMTgsMCwwLDEsLjgyNy0xLjcwNiwzLjI4NiwzLjI4NiwwLDAsMSwyLjE0OS0uNjc3LDMuNTg3LDMuNTg3LDAsMCwxLDEuNjA4LjM0OSwyLjY0NCwyLjY0NCwwLDAsMSwxLjA5NC45NjJBMi40NiwyLjQ2LDAsMCwxLDQ4LjYtNS42MzJoLTEuMTZhMS42LDEuNiwwLDAsMC0uNS0xLjI1MSwyLjA1NCwyLjA1NCwwLDAsMC0xLjQyNS0uNDU1LDIuMSwyLjEsMCwwLDAtMS4zMzIuMzc2QTEuMjUxLDEuMjUxLDAsMCwwLDQzLjctNS45MTdhMS4xMjksMS4xMjksMCwwLDAsLjQ1NS45MSw0LjQ1Miw0LjQ1MiwwLDAsMCwxLjU0Ni42ODIsNy4xNjUsNy4xNjUsMCwwLDEsMS43MDYuNjgyLDIuNTkxLDIuNTkxLDAsMCwxLC45MS44NjMsMi4yLDIuMiwwLDAsMSwuMywxLjE2LDIuMDQ3LDIuMDQ3LDAsMCwxLS44MywxLjcwNiwzLjUzOCwzLjUzOCwwLDAsMS0yLjIxOS42NEE0LjExNSw0LjExNSwwLDAsMSw0My44ODMuMzg2YTIuODMzLDIuODMzLDAsMCwxLTEuMjA1LS45NDcsMi4zMTEsMi4zMTEsMCwwLDEtLjQyNC0xLjM2NWgxLjE2QTEuNTA4LDEuNTA4LDAsMCwwLDQ0LS42NzVhMi40NjgsMi40NjgsMCwwLDAsMS41NjYuNDU1LDIuMjc1LDIuMjc1LDAsMCwwLDEuNC0uMzczLDEuMjExLDEuMjExLDAsMCwwLC40ODctMS4wMTZBMS4xODgsMS4xODgsMCwwLDAsNDctMi42YTUuMiw1LjIsMCwwLDAtMS42MjYtLjcxMloiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDI2Ljc0NyAzMC4yNjgpIiBmaWxsPSIjNjA2MDYwIi8+PC9zdmc+
+    maintainers:
+    - email: m.heinsohn@armbruster.de
+      name: Marco Heinsohn
+    name: thingsboard
+    type: application
+    urls:
+    - thingsboard/thingsboard-0.0.1.tgz
+    version: 0.0.1
+generated: "2024-04-23T14:12:15.9778091+02:00"

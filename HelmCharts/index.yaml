@@ -3,7 +3,7 @@ entries:
   elamonpremise:
   - apiVersion: v2
     appVersion: 0.3.83
-    created: "2025-01-10T16:40:24.1120582+01:00"
+    created: "2025-01-10T16:59:01.2316179+01:00"
     dependencies:
     - name: redis
       repository: https://charts.bitnami.com/bitnami
@@ -31,7 +31,7 @@ entries:
     version: 0.5.4
   - apiVersion: v2
     appVersion: 0.3.83
-    created: "2025-01-10T16:40:24.0917217+01:00"
+    created: "2025-01-10T16:59:01.2138286+01:00"
     dependencies:
     - name: redis
       repository: https://charts.bitnami.com/bitnami
@@ -59,7 +59,7 @@ entries:
     version: 0.5.3
   - apiVersion: v2
     appVersion: 0.3.83
-    created: "2025-01-10T16:40:24.0710947+01:00"
+    created: "2025-01-10T16:59:01.1906774+01:00"
     dependencies:
     - name: redis
       repository: https://charts.bitnami.com/bitnami
@@ -87,7 +87,7 @@ entries:
     version: 0.5.2
   - apiVersion: v2
     appVersion: 0.3.83
-    created: "2025-01-10T16:40:24.0414752+01:00"
+    created: "2025-01-10T16:59:01.1705097+01:00"
     dependencies:
     - name: redis
       repository: https://charts.bitnami.com/bitnami
@@ -115,7 +115,7 @@ entries:
     version: 0.5.1
   - apiVersion: v2
     appVersion: 0.3.83
-    created: "2025-01-10T16:40:24.0247051+01:00"
+    created: "2025-01-10T16:59:01.1501236+01:00"
     dependencies:
     - name: redis
       repository: https://charts.bitnami.com/bitnami
@@ -143,7 +143,7 @@ entries:
     version: 0.5.0
   - apiVersion: v2
     appVersion: 0.3.77
-    created: "2025-01-10T16:40:23.886507+01:00"
+    created: "2025-01-10T16:59:01.0218278+01:00"
     dependencies:
     - name: redis
       repository: https://charts.bitnami.com/bitnami
@@ -171,7 +171,7 @@ entries:
     version: 0.4.10
   - apiVersion: v2
     appVersion: 0.3.77
-    created: "2025-01-10T16:40:23.9987321+01:00"
+    created: "2025-01-10T16:59:01.1274635+01:00"
     dependencies:
     - name: redis
       repository: https://charts.bitnami.com/bitnami
@@ -199,7 +199,7 @@ entries:
     version: 0.4.9
   - apiVersion: v2
     appVersion: 0.3.77
-    created: "2025-01-10T16:40:23.9786244+01:00"
+    created: "2025-01-10T16:59:01.1074351+01:00"
     dependencies:
     - name: redis
       repository: https://charts.bitnami.com/bitnami
@@ -227,7 +227,7 @@ entries:
     version: 0.4.8
   - apiVersion: v2
     appVersion: 0.3.77
-    created: "2025-01-10T16:40:23.9582567+01:00"
+    created: "2025-01-10T16:59:01.0796821+01:00"
     dependencies:
     - name: redis
       repository: https://charts.bitnami.com/bitnami
@@ -255,7 +255,7 @@ entries:
     version: 0.4.4
   - apiVersion: v2
     appVersion: 0.3.77
-    created: "2025-01-10T16:40:23.9296313+01:00"
+    created: "2025-01-10T16:59:01.0563793+01:00"
     dependencies:
     - name: redis
       repository: https://charts.bitnami.com/bitnami
@@ -283,7 +283,7 @@ entries:
     version: 0.4.3
   - apiVersion: v2
     appVersion: 0.3.77
-    created: "2025-01-10T16:40:23.9076049+01:00"
+    created: "2025-01-10T16:59:01.0385797+01:00"
     dependencies:
     - name: redis
       repository: https://charts.bitnami.com/bitnami
@@ -311,7 +311,7 @@ entries:
     version: 0.4.2
   - apiVersion: v2
     appVersion: 0.3.77
-    created: "2025-01-10T16:40:23.8653016+01:00"
+    created: "2025-01-10T16:59:00.9986845+01:00"
     dependencies:
     - name: redis
       repository: https://charts.bitnami.com/bitnami
@@ -339,7 +339,7 @@ entries:
     version: 0.4.1
   - apiVersion: v2
     appVersion: 0.3.77
-    created: "2025-01-10T16:40:23.8466606+01:00"
+    created: "2025-01-10T16:59:00.9744237+01:00"
     dependencies:
     - name: redis
       repository: https://charts.bitnami.com/bitnami
@@ -367,7 +367,7 @@ entries:
     version: 0.4.0
   - apiVersion: v2
     appVersion: 0.3.76
-    created: "2025-01-10T16:40:23.8250676+01:00"
+    created: "2025-01-10T16:59:00.9438223+01:00"
     dependencies:
     - name: redis
       repository: https://charts.bitnami.com/bitnami
@@ -395,7 +395,7 @@ entries:
     version: 0.3.1
   - apiVersion: v2
     appVersion: 0.3.76
-    created: "2025-01-10T16:40:23.8046227+01:00"
+    created: "2025-01-10T16:59:00.9236822+01:00"
     dependencies:
     - name: redis
       repository: https://charts.bitnami.com/bitnami
@@ -423,7 +423,7 @@ entries:
     version: 0.3.0
   - apiVersion: v2
     appVersion: 0.3.76
-    created: "2025-01-10T16:40:23.7738929+01:00"
+    created: "2025-01-10T16:59:00.9029896+01:00"
     dependencies:
     - name: redis
       repository: https://charts.bitnami.com/bitnami
@@ -451,7 +451,7 @@ entries:
     version: 0.2.5
   - apiVersion: v2
     appVersion: 0.3.76
-    created: "2025-01-10T16:40:23.7535752+01:00"
+    created: "2025-01-10T16:59:00.8827701+01:00"
     dependencies:
     - name: redis
       repository: https://charts.bitnami.com/bitnami
@@ -479,7 +479,7 @@ entries:
     version: 0.2.4
   - apiVersion: v2
     appVersion: 0.3.76
-    created: "2025-01-10T16:40:23.7331105+01:00"
+    created: "2025-01-10T16:59:00.8611628+01:00"
     dependencies:
     - name: redis
       repository: https://charts.bitnami.com/bitnami
@@ -507,7 +507,7 @@ entries:
     version: 0.2.3
   - apiVersion: v2
     appVersion: 0.3.76
-    created: "2025-01-10T16:40:23.7098941+01:00"
+    created: "2025-01-10T16:59:00.8385137+01:00"
     dependencies:
     - name: redis
       repository: https://charts.bitnami.com/bitnami
@@ -535,7 +535,7 @@ entries:
     version: 0.2.2
   - apiVersion: v2
     appVersion: prod-20240709
-    created: "2025-01-10T16:40:23.6892168+01:00"
+    created: "2025-01-10T16:59:00.81685+01:00"
     dependencies:
     - name: redis
       repository: https://charts.bitnami.com/bitnami
@@ -563,7 +563,7 @@ entries:
     version: 0.2.1
   - apiVersion: v2
     appVersion: prod-20240709
-    created: "2025-01-10T16:40:23.6669394+01:00"
+    created: "2025-01-10T16:59:00.7931982+01:00"
     dependencies:
     - name: redis
       repository: https://charts.bitnami.com/bitnami
@@ -592,7 +592,7 @@ entries:
   swaonpremise:
   - apiVersion: v2
     appVersion: 0.3.83
-    created: "2025-01-10T16:40:24.1245348+01:00"
+    created: "2025-01-10T16:59:01.2316179+01:00"
     description: SWA Client for Elam Solution OnPremise
     digest: 01765378436cd0e2e7f99f2bbcbcf801e03a504461aaf294c5c94f4c206422a1
     home: https://www.elam-solutions.com/
@@ -607,7 +607,7 @@ entries:
     version: 0.5.0
   - apiVersion: v2
     appVersion: 0.1.44
-    created: "2025-01-10T16:40:24.1236979+01:00"
+    created: "2025-01-10T16:59:01.2316179+01:00"
     description: SWA Client for Elam Solution OnPremise
     digest: e1c043a661ece94f05fd990281d067852d312b664a6893f677b052b3b1828dbd
     home: https://www.elam-solutions.com/
@@ -622,7 +622,7 @@ entries:
     version: 0.3.0
   - apiVersion: v2
     appVersion: prod-20240709
-    created: "2025-01-10T16:40:24.1220773+01:00"
+    created: "2025-01-10T16:59:01.2316179+01:00"
     description: SWA Client for Elam Solution OnPremise
     digest: 1e2c27340036b474a716232e59f200ea7494bed97acde89500746a49c2145456
     home: https://www.elam-solutions.com/
@@ -637,7 +637,7 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: prod-20240709
-    created: "2025-01-10T16:40:24.1120582+01:00"
+    created: "2025-01-10T16:59:01.2316179+01:00"
     description: SWA Client for Elam Solution OnPremise
     digest: c3cc506845eeacdfad89598fa8c974d42d5d9747ac73075ed4a85e8aa2bb7f50
     home: https://www.elam-solutions.com/
@@ -652,7 +652,7 @@ entries:
     version: 0.1.3
   - apiVersion: v2
     appVersion: prod-20240709
-    created: "2025-01-10T16:40:24.1120582+01:00"
+    created: "2025-01-10T16:59:01.2316179+01:00"
     description: SWA Client for Elam Solution OnPremise
     digest: 333af07d2babccd032bc1b18422b3ec6426448c9fdb80777b428a54e2ec94fb5
     home: https://www.elam-solutions.com/
@@ -667,7 +667,7 @@ entries:
     version: 0.1.0
   - apiVersion: v2
     appVersion: develop
-    created: "2025-01-10T16:40:24.1120582+01:00"
+    created: "2025-01-10T16:59:01.2316179+01:00"
     description: SWA Client for Elam Solution OnPremise
     digest: c2737e060eab3a2b347c37a2a703d15b58ea568a644e7b63d637799cc19a8896
     home: https://www.elam-solutions.com/
@@ -682,7 +682,7 @@ entries:
     version: 0.0.14
   - apiVersion: v2
     appVersion: develop
-    created: "2025-01-10T16:40:24.1120582+01:00"
+    created: "2025-01-10T16:59:01.2316179+01:00"
     description: SWA Client for Elam Solution OnPremise
     digest: 1e0bfcdc3be870729a26bbad2822ecbefb2a8c310d16ede37065c7a66f6a321f
     home: https://www.elam-solutions.com/
@@ -695,4 +695,4 @@ entries:
     urls:
     - swaonpremise/swaonpremise-0.0.13.tgz
     version: 0.0.13
-generated: "2025-01-10T16:40:23.6417608+01:00"
+generated: "2025-01-10T16:59:00.7702543+01:00"
